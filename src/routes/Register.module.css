@@ -1,0 +1,20 @@
+.regText{
+    font-family: 'Aldrich';
+    font-size: 40px;
+}
+.regIcon{
+    width: 100%;
+    height: auto;
+}
+.top button{
+    background:#11122D;
+    color: white;
+}
+.login .logText{
+    font-family: 'Aldrich';
+    font-size: 40px;
+}
+.login button{
+    background:#11122D;
+    color: white;
+}

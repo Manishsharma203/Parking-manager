@@ -1,0 +1,14 @@
+nav{
+  background:#FFA67B;
+  /* #AEE2C0 */
+}
+.logo{
+  width:50px;
+}
+.header{
+  font-size: 30px;
+  color: #330F0B;
+  font-family: 'Russo One';
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}

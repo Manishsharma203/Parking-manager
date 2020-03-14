@@ -1,0 +1,29 @@
+.floors{
+    background: #956164;
+}
+
+.floors button{
+    background:#11122D;
+    color: white;
+}
+.mid button{
+    background: #FFA375;
+    color: #11122D;
+}
+.mid button:hover{
+    background: #11122D;
+    color:#FFA375;
+    border:1px solid #11122D;
+}
+.floors button:hover {
+    background:white;
+    color:#11122D;
+    border:1px solid #11122D;
+}
+.img{
+    display: block;
+    width: 50px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
